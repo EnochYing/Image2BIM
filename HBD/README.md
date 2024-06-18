@@ -10,6 +10,8 @@
 <div align="center">
 </div>
 
+![]()
+
 The HBD (Hong Kong University Building Image Dataset) dataset contains 3,378 images collected from both interiors 
 (2,235 images) and exteriors (1,143 images) of 36 buildings with different architectural styles (29 modern and 7 historical) 
 and various space types (e.g., office, classroom, lab, study area, canteen, and pantry) on the campus of The University of Hong Kong. 
