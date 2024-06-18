@@ -2,6 +2,8 @@
 
 <h1> HBD: A Semantic 3D Reconstruction-oriented Image Dataset for Building Component Segmentation </h1>
 
+![interiorImages](https://github.com/EnochYing/Image2BIM/blob/main/HBD/interiorImages.png)
+
 </div>
 
 
@@ -9,8 +11,6 @@
 
 <div align="center">
 </div>
-
-![interiorImages](https://github.com/EnochYing/Image2BIM/blob/main/HBD/interiorImages.png)
 
 The HBD (Hong Kong University Building Image Dataset) dataset contains 3,378 images collected from both interiors 
 (2,235 images) and exteriors (1,143 images) of 36 buildings with different architectural styles (29 modern and 7 historical) 
