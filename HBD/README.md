@@ -29,6 +29,9 @@ for their own applications based on the accuracy and training and inference cost
 
 The dataset is open to the public and can be downloaded from: https://uofmacau-my.sharepoint.com/:f:/g/personal/mowong_um_edu_mo/Evfm1vtv4xRBoZ61r7VaSpoBSPO2GKDUd9x5xDY9WqXKCw?e=OGxv19
 
+If you think our dataset is useful for your research, please consider citing our paper as below: 
+
+Wong, M.O., Ying, H.*, Yin, M.*, Yi, X., Xiao, L., He, C., Tang, L. (2024). A 3D Semantic Reconstruction-oriented Image Dataset for Building Element Segmentation. Automation in Construction (Accepted).
 
 
 
